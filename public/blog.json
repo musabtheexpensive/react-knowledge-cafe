@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://example.com/book1-cover.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/jane-smith.jpg",
+      "posted_date": "2023-09-15",
+      "reading_time_minutes": 180, 
+      "hashtags": ["fiction", "classics", "nature"]
+    },
+    {
+      "id": "002",
+      "cover": "https://example.com/book2-cover.jpg",
+      "title": "Mystery at Midnight Manor",
+      "author": "David Johnson",
+      "author_img": "https://example.com/david-johnson.jpg",
+      "posted_date": "2023-09-16",
+      "reading_time_minutes": 150,  
+      "hashtags": ["mystery", "suspense", "thriller"]
+    },
+    {
+      "id": "003",
+      "cover": "https://example.com/book3-cover.jpg",
+      "title": "Fantasy World Chronicles",
+      "author": "Emily White",
+      "author_img": "https://example.com/emily-white.jpg",
+      "posted_date": "2023-09-17",
+      "reading_time_minutes": 240,  
+      "hashtags": ["fantasy", "adventure", "magic"]
+    },
+    {
+      "id": "004",
+      "cover": "https://example.com/book4-cover.jpg",
+      "title": "Sci-Fi Odyssey",
+      "author": "Michael Brown",
+      "author_img": "https://example.com/michael-brown.jpg",
+      "posted_date": "2023-09-18",
+      "reading_time_minutes": 300,  
+      "hashtags": ["science fiction", "space", "technology"]
+    },
+    {
+      "id": "005",
+      "cover": "https://example.com/book5-cover.jpg",
+      "title": "Romantic Escapade",
+      "author": "Sophia Miller",
+      "author_img": "https://example.com/sophia-miller.jpg",
+      "posted_date": "2023-09-19",
+      "reading_time_minutes": 120,  
+      "hashtags": ["romance", "love", "relationships"]
+    }
+  ]
+  
