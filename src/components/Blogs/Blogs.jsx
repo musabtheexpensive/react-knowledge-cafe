@@ -5,14 +5,17 @@ const Blog = () => {
     const [blogs,setBlogs]=useState([]);
 
 useEffect(()=>{
-    fetch('blog.json')
+    fetch('Blogs.json')
     .then(res=>res.json())
     .then(data => setBlogs(data))
 },[])
 
     return (
-        <div className="md:w-1/3">
+        <div className="md:w-2/3">
             <h1 className="text-4xl">Blogs: {blogs.length}</h1>
+            {
+                blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog> )
+            }
         </div>
     );
 };

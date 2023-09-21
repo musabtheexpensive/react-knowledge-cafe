@@ -1,9 +1,11 @@
+/* eslint-disable react/prop-types */
 import PropTypes from 'prop-types'; // ES6
 const Blog = ({blog}) => {
-    console.log(blog)
+
+    const {title}=blog;
     return (
         <div>
-            
+           <h2 className='text-4xl'>{title}</h2> 
         </div>
     );
 };

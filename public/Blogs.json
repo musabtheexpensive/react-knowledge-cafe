@@ -1,6 +1,6 @@
 [
     {
-      "id": "001",
+      "id": "1",
       "cover": "https://example.com/book1-cover.jpg",
       "title": "The Secret Garden",
       "author": "Jane Smith",
@@ -10,7 +10,7 @@
       "hashtags": ["fiction", "classics", "nature"]
     },
     {
-      "id": "002",
+      "id": "2",
       "cover": "https://example.com/book2-cover.jpg",
       "title": "Mystery at Midnight Manor",
       "author": "David Johnson",
@@ -20,7 +20,7 @@
       "hashtags": ["mystery", "suspense", "thriller"]
     },
     {
-      "id": "003",
+      "id": "3",
       "cover": "https://example.com/book3-cover.jpg",
       "title": "Fantasy World Chronicles",
       "author": "Emily White",
@@ -30,7 +30,7 @@
       "hashtags": ["fantasy", "adventure", "magic"]
     },
     {
-      "id": "004",
+      "id": "4",
       "cover": "https://example.com/book4-cover.jpg",
       "title": "Sci-Fi Odyssey",
       "author": "Michael Brown",
@@ -40,7 +40,7 @@
       "hashtags": ["science fiction", "space", "technology"]
     },
     {
-      "id": "005",
+      "id": "5",
       "cover": "https://example.com/book5-cover.jpg",
       "title": "Romantic Escapade",
       "author": "Sophia Miller",
